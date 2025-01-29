@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yogesh Pahuja</h1>
-<h3 align="center">Data Engineer with 5 months of experience in writing automated Python scripts Skilled in the areas of Python, Pandas, NumPy,SQL, PostgreSql, sqlalchmey and psycopg2. Other than that I'm passionate about working with React Js, Node Js, MongoDb and MySQL Tech Stack. I'm also exploring cloud technologies such as AWS.</h3>
+<h3 align="center">Data Engineer with 1+ year of experience in writing automated Python scripts Skilled in the areas of Python, Pandas, NumPy,SQL, PostgreSql, sqlalchmey and psycopg2. Other than that I'm passionate about working with React Js, Node Js, MongoDb and MySQL Tech Stack. I'm also exploring cloud technologies such as AWS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pahujayogesh&label=Profile%20views&color=0e75b6&style=flat" alt="pahujayogesh" /> </p>
 
